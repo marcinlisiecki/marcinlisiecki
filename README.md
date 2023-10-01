@@ -1,5 +1,4 @@
 # Hey 👋
-<hr>
 I'm Marcin, and I've been passionate about programming for years. I love learning new things and diving deep into topics I've already explored. I'm ambitious and enjoy taking on new challenges.
 
 ## Skills
