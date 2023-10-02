@@ -4,7 +4,7 @@ I'm Marcin, and I've been passionate about programming for years. I love learnin
 ## Skills
 - **Frontend:** Angular, TypeScript, JavaScript, PrimeNg, i18n, TailwindCSS, SCSS, React, NextJS, GSAP, HTML, CSS
 - **Backend:** Java, Spring, Hibernate, SQL, Express
-- **Other:** Git, Jira, Scrum, Figma, Docker
+- **Other:** Git, Jira, Scrum, Figma, Rest
 
 ## Contact
 - GitHub: [github.com/marcinlisiecki](https://github.com/marcinlisiecki)
